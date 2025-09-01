@@ -1,3 +1,2 @@
-Hello World!
-Hello Everybody!
-I AM SO HAPPY!
+Hello World! Hello everyone!
+Goodbye!
